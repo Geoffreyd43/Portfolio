@@ -10,7 +10,7 @@
     height: 100%;
 }
 
-h3 {color: white;}
+.sidenav h3 {color: white;}
 
 .round-corners {
     border-radius: 15px;
