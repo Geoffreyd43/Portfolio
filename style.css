@@ -1,6 +1,6 @@
 /* Set height of the grid so .sidenav can be 100% (adjust if needed) */
 .row.content {
-    height: 1000px;
+    height: 1500px;
     background: #ffdead;
 }
 
@@ -11,6 +11,11 @@
 }
 
 .sidenav h3 {color: white;}
+
+h3 {
+    font-weight: bold;
+    margin: 25px 0px;
+}
 
 .round-corners {
     border-radius: 15px;
@@ -28,7 +33,7 @@ footer {
     font-size: 50px;
     font-weight: bold;
     position: absolute;
-    top: 20%;
+    top: 10%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
