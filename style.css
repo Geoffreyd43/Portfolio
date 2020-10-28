@@ -12,7 +12,7 @@
 
 .sidenav h3 {color: white;}
 
-h3 {
+h3, h4 {
     font-weight: bold;
     margin: 25px 0px;
 }
@@ -20,6 +20,11 @@ h3 {
 .round-corners {
     border-radius: 15px;
     max-width: 50%;
+}
+
+.iphone-pic {
+    height: 500px;
+    width: auto;
 }
 
 /* Set black background color, white text and some padding */
